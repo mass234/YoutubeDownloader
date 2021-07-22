@@ -1,4 +1,19 @@
-"Youtube Downloader" By Mass(@ffids6)
+# "Youtube Downloader" 
+
+# author
+Mass
+2021.7.11
+
+https://twitter.com/ffids6
+
+
+Youtubeチャンネル
+https://www.youtube.com/channel/UCdRXzA95-SbzTzgDKCI7FCg
+
+
+ブログ
+https://masspc.hatenablog.com/
+
 
 使用方法
 1.URLをバーの中に入れます。
